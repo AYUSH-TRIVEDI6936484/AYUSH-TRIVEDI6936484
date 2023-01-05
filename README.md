@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ayush trivedi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayush trivedi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ayush-trivedi-a690a1244/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayush trivedi" height="30" width="40" /></a>
 <a href="https://instagram.com/its_trivedi7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="its_trivedi7" height="30" width="40" /></a>
 </p>
 
