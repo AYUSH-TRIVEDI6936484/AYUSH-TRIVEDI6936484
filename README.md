@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C#,Android**
 
-- 💬 Ask me about **Java,Front-end,react**
+- 💬 Ask me about **Java,Front-end**
 
 - 📫 How to reach me **its.trivedi05@gmail.com**
 
