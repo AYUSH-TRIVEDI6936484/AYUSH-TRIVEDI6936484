@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Ayush Trivedi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="Coding" width="400" align="right">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-trivedi6936484&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-trivedi6936484" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-trivedi6936484&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-trivedi6936484" /> </p>
 - 🔭 I’m currently working on [my portfolio website](https://github.com/AYUSH-TRIVEDI6936484/portfolio)
 
 - 🌱 I’m currently learning **C#,Android**
