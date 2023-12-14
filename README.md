@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-trivedi6936484&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-trivedi6936484" /> </p>
 - 🔭 I’m currently working on (https://github.com/AYUSH-TRIVEDI6936484/API)
 
-- 🌱 I’m currently learning **C#,Android**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 💬 Ask me about **Java,Front-end**
 
